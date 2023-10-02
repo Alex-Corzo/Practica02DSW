@@ -1,0 +1,16 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  line-height: 1.8;
+}
+
+h1 {
+  font-family: "Roboto Slab", serif;
+  font-size: 36px;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
+
+header {
+  background-image: url("../images/header.jpg");
+  background-size: cover;
